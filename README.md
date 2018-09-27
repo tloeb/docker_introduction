@@ -1,5 +1,4 @@
 # Docker Einführung
 
-Das Jupyter Notebook kann mittels binder zur Verfügung gestellt werden:
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tloeb/docker_introduction/master?filepath=docker.ipynb)
+## Vorrausetzungen
+https://rise.readthedocs.io/en/docs_hot_fixes/installation.html
