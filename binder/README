@@ -1,7 +1,7 @@
 This directory holds configuration files for https://mybinder.org/.
 
 The Jupyter presentation can be accessed with this link:
-https://mybinder.org/v2/gh/tloeb/git_introduction/master?filepath=git_intro.ipynb
+https://mybinder.org/v2/gh/tloeb/docker_introduction/master?filepath=git_intro.ipynb
 
 To check out a different version, just replace "master" with the desired
 branch/tag name or commit hash.
